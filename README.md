@@ -1,2 +1,2 @@
 # Spark-knowledge
-Used for storing and sharing Examples for Apache Spark
+Sharing Examples for Apache Spark
