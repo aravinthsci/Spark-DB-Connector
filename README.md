@@ -1,6 +1,6 @@
 # Spark-DB-Connector
 
-Sharing Examples for Connecting different databases using Apache Spark
+Sharing Examples for Connecting different databases using Apache Spark 2.4.x
 
 ###### Examples available under com.spark.knowledge.test package
 
