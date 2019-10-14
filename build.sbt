@@ -30,4 +30,8 @@ libraryDependencies  += "com.memsql" %% "memsql-connector" % "2.0.6"
 libraryDependencies += "com.redislabs" % "spark-redis" % "2.4.0"
 libraryDependencies += "redis.clients" % "jedis" % "3.1.0-m1"
 
+//MongoDB
+
+libraryDependencies += "org.mongodb.spark" %% "mongo-spark-connector" % "2.4.1"
+
 
