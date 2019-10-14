@@ -16,7 +16,7 @@ object MysqlTest extends App{
     .config(sparkConf)
     .getOrCreate()
 
-  val mysqlObj = Mysql.withConnection(url="jdbc:mysql://192.168.2.20:3306", user="root",password="root")
+  val mysqlObj = Mysql.withConnection(url="jdbc:mysql://localhost:3306", user="root",password="root")
 
    val sales_df = sparkSession.read.option("header",true).option("inferSchema",true).csv("/data/big data/Sale.csv")
 
