@@ -24,3 +24,9 @@ Read and write data to Redis using Apache Spark with the help of Spark Redis con
 
 Read and write data to MongoDB using Apache Spark with the help of Spark Mongo connector.
 
+
+## Mysql
+##### File source : com.spark.knowledge.datastorage.Mysql
+
+Read and write data to Mysql using Apache Spark with the help of Mysql JDBC connector.
+
