@@ -26,3 +26,8 @@ libraryDependencies += "com.twitter" % "jsr166e" % "1.1.0"
 //memsql dependencies
 libraryDependencies  += "com.memsql" %% "memsql-connector" % "2.0.6"
 
+//spark-redis dependencies
+libraryDependencies += "com.redislabs" % "spark-redis" % "2.4.0"
+libraryDependencies += "redis.clients" % "jedis" % "3.1.0-m1"
+
+

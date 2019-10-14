@@ -9,7 +9,7 @@ object CassandraTest extends App{
     .set("spark.cassandra.connection.host", "localhost")
     .set("spark.cassandra.auth.username", "cassandra")
     .set("spark.cassandra.auth.password", "cassandra")
-    .setAppName("Learn Spark")
+    .setAppName("Cassandra Test")
     .setMaster("local")
     .set("spark.cores.max", "2")
 
