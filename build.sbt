@@ -36,5 +36,6 @@ libraryDependencies += "org.mongodb.spark" %% "mongo-spark-connector" % "2.4.1"
 //Mysql dependencies
 libraryDependencies += "mysql" % "mysql-connector-java" % "8.0.17"
 
-
+//Postgres dependencies
+libraryDependencies += "org.postgresql" % "postgresql" % "42.2.2"
 

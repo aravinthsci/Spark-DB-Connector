@@ -30,3 +30,8 @@ Read and write data to MongoDB using Apache Spark with the help of Spark Mongo c
 
 Read and write data to Mysql using Apache Spark with the help of Mysql JDBC connector.
 
+## PostgresSQL
+##### File source : com.spark.knowledge.datastorage.PostgresSQL
+
+Read and write data to Postgres using Apache Spark with the help of Postgres JDBC connector.
+
