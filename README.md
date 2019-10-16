@@ -35,3 +35,9 @@ Read and write data to Mysql using Apache Spark with the help of Mysql JDBC conn
 
 Read and write data to Postgres using Apache Spark with the help of Postgres JDBC connector.
 
+## Microsoft SQL server
+##### File source : com.spark.knowledge.datastorage.MSSql
+
+Read and write data to Microsoft SQL server using Apache Spark with the help of Microsoft SQL server JDBC connector.
+
+

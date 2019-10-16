@@ -39,3 +39,7 @@ libraryDependencies += "mysql" % "mysql-connector-java" % "8.0.17"
 //Postgres dependencies
 libraryDependencies += "org.postgresql" % "postgresql" % "42.2.2"
 
+//MSSql dependencies
+libraryDependencies += "com.microsoft.sqlserver" % "mssql-jdbc" % "7.2.2"
+
+
